@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+
+        <title>Challenge: making titles and text</title>
+
+        <meta charset="utf-8">
+
+    </head>
+
+    <body>
+        
+        <h1>plants</h1>
+        <p>
+        plants are green plants that have green leaves<br>
+       They are on  dirt. <br>
+        
+        </p>
+    </body>
+
+</html>
